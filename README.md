@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-<h3 align="center">Analytics Leader | Data Architect</h3>
+<h3 align="center">Assistant Manager Data Analytics</h3>
 
 <p align="center">
-  I specialize in building full-funnel BI platforms, advanced semantic models, and automated data pipelines to drive high-growth business strategies.
+  Analytics Leader specializing in building full-funnel BI platforms, advanced semantic models, and automated data pipelines to drive high-growth business strategies.
 </p>
 
 ---
@@ -10,9 +10,19 @@
 ### 🚀 About Me
 - 🔭 I’m currently working as an **Assistant Manager Data Analytics**, leading a team to build board-level dashboards and data-driven strategies.
 - 💡 **Core Expertise:** Product Analytics, Financial Analytics, Data Modeling & ETL, Statistical Analysis, A/B Testing, and EDA.
-- 📈 **Track Record:** Architected complex relational models using advanced SQL, DAX, and Google BigQuery to support massive business scale-ups (e.g., driving growth from ~45K to ~95K monthly leads).
 - 🤖 **Automation & AI:** Leveraging Agentic AI (n8n), Python, and Power Automate to eliminate manual bottlenecks and streamline cross-functional workflows.
 - 📫 **Let's Connect:** **[LinkedIn](https://linkedin.com/in/vishal-7901a911b)** | **Vishusgh@gmail.com**
+
+---
+
+### 💼 Career Journey
+
+* **Assistant Manager Data Analytics @ Planet Spark** *(May 2023 - Present)*
+  * Directing a 4-person analytics team and architecting complex relational models using SQL, DAX, and Google BigQuery. Drove business scale-up from ~45K to ~95K monthly leads and optimized ad spend for a 20% ROAS increase.
+* **Data Analyst @ Kiwitech** *(Jan 2022 - May 2023)*
+  * Architected semantic data models and deployed Power BI dashboards that centralized KPIs, reducing monthly reporting cycles by 35%. Leveraged Python (Pandas) for deep Salesforce EDA.
+* **Data Analyst @ Vaco Binary Semantics** *(Jan 2019 - Jan 2022)*
+  * Managed client-facing BI solutions for high-profile Google accounts utilizing Power BI and Looker Studio. Engineered automated Python and VBA pipelines, reducing manual effort by 40%.
 
 ---
 
