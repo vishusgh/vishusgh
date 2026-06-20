@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B57,100:3670A0&height=220&section=header&text=VISHAL%20SINGH&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Vishal Singh Data Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=VISHAL%20SINGH&fontSize=50&fontColor=3670A0&height=60" alt="VISHAL SINGH" />
+  <p style="margin-top: 0px;"><strong>Assistant Manager - Data Analytics</strong></p>
+  
+  <p>
+    <kbd>Python</kbd> • <kbd>SQL</kbd> • <kbd>Google BigQuery</kbd> • <kbd>Power BI</kbd>
+  </p>
+  <br>
+  <p>
+    <em>I specialize in building full-funnel BI platforms, advanced semantic models, and automated data pipelines to drive high-growth business strategies.</em>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vishal-7901a911b">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Analytics+Leader;Assistant+Manager+-+Data+Analytics;Data+Architect" alt="Typing Animation" />
-  </a>
-</p>
-
-<p align="center">
-  I specialize in building full-funnel BI platforms, advanced semantic models, and automated data pipelines to drive high-growth business strategies.
-</p>
-
----
 
 ### 🚀 About Me
 - 🔭 I’m currently working as an **Assistant Manager Data Analytics**[cite: 1], leading a team to build board-level dashboards and data-driven strategies[cite: 1].
