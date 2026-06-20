@@ -11,12 +11,11 @@
   </p>
 </div>
 
-
 ### 🚀 About Me
-- 🔭 I’m currently working as an **Assistant Manager Data Analytics**[cite: 1], leading a team to build board-level dashboards and data-driven strategies[cite: 1].
-- 💡 **Core Expertise:** Product Analytics, Financial Analytics, Data Modeling & ETL, Statistical Analysis, A/B Testing, and EDA[cite: 1].
-- 🤖 **Automation & AI:** Leveraging Agentic AI (n8n), Python, and Power Automate to eliminate manual bottlenecks and streamline cross-functional workflows[cite: 1].
-- 📫 **Let's Connect:** **[LinkedIn](https://linkedin.com/in/vishal-7901a911b)** | **Vishusgh@gmail.com**[cite: 1]
+- 🔭 I’m currently working as an **Assistant Manager Data Analytics**, leading a team to build board-level dashboards and data-driven strategies.
+- 💡 **Core Expertise:** Product Analytics, Financial Analytics, Data Modeling & ETL, Statistical Analysis, A/B Testing, and EDA.
+- 🤖 **Automation & AI:** Leveraging Agentic AI (n8n), Python, and Power Automate to eliminate manual bottlenecks and streamline cross-functional workflows.
+- 📫 **Let's Connect:** **[LinkedIn](https://linkedin.com/in/vishal-7901a911b)** | **Vishusgh@gmail.com**
 
 ---
 
@@ -46,16 +45,16 @@
 
 * **PlanetSpark** *(May 2023 - Present • 3 yrs 2 mos)*
   * **Assistant Manager Data Analytics** *(Oct 2024 - Present)*
-    * Directing a 4-person analytics team and architecting complex relational models[cite: 1]. Drove business scale-up from ~45K to ~95K monthly leads and optimized ad spend for a 20% ROAS increase[cite: 1].
+    * Directing a 4-person analytics team and architecting complex relational models. Drove business scale-up from ~45K to ~95K monthly leads and optimized ad spend for a 20% ROAS increase.
   * **Senior Data Analyst** *(May 2023 - Sep 2024)*
 
 * **KiwiTech** *(Jan 2022 - May 2023 • 1 yr 5 mos)*
-  * **Data Analyst**[cite: 1]
-    * Architected semantic data models and deployed Power BI dashboards that centralized KPIs, reducing monthly reporting cycles by 35%[cite: 1]. Leveraged Python (Pandas) for deep Salesforce EDA[cite: 1].
+  * **Data Analyst**
+    * Architected semantic data models and deployed Power BI dashboards that centralized KPIs, reducing monthly reporting cycles by 35%. Leveraged Python (Pandas) for deep Salesforce EDA.
 
 * **Vaco Binary Semantics LLP** *(Jan 2019 - Jan 2022 • 3 yrs 1 mo)*
   * **Data Analyst** *(Apr 2021 - Jan 2022)*
-    * Managed client-facing BI solutions for high-profile Google accounts (Nest & DACA projects)[cite: 1]. Engineered automated pipelines, reducing manual effort by 40%[cite: 1].
+    * Managed client-facing BI solutions for high-profile Google accounts (Nest & DACA projects). Engineered automated pipelines, reducing manual effort by 40%.
   * **Associate Data Analyst** *(Jan 2019 - Mar 2021)*
 
 ---
